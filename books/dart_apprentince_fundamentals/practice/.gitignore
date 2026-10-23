@@ -1,0 +1,18 @@
+# https://dart.dev/tools/private-files
+# Dart and Flutter generated files
+.dart_tool/
+.packages
+build/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Sensitive configuration
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db

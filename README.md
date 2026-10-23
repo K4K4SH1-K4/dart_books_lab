@@ -17,9 +17,10 @@ A structured learning repository documenting my journey toward mastering Dart th
 
 ## Progress Tracker
 
-| Book                           | Status      |
-| ------------------------------ | ----------- |
-| Dart Apprentince. Fundamentals | In progress |
+| Book                            | Status      |
+| ------------------------------- | ----------- |
+| Dart Apprentince: Fundamentals  | In progress |
+| Dart Apprentince: Beyond Basics | Not Started |
 
 ## My Approach
 
