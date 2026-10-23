@@ -1,3 +1,4 @@
+//classes practice
 class User {
   //long-form constructors / Generative constructor
 
@@ -6,6 +7,13 @@ class User {
     this.name = name;
    }
   **/
+
+  //Creating a user constructor fromJson
+
+  //Factory constructors
+  factory User.ray() {
+    return User(id: 42, name: 'Ray');
+  }
 
   //short-form constructor
   // Everything that was covered under functions also apply to constructors
